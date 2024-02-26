@@ -1,5 +1,5 @@
 <head>
-  <title>Dvarsya Kilasya Ch Itihasah</title>
+  <title>Sirat Dhatiat Qasirat Litazir Harzavad Alsaabiqi: Almaeruf Alan Biaism Dvarka Min Jamieat Nalanda.</title>
 </head>
 
 ## A short biography of a former merchant of Harjavad, now known as Dvarka of Nalanda University.
